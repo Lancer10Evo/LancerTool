@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancerToolGun", "LancerToolGun\LancerToolGun.csproj", "{B60C8FBC-E031-447E-92CB-7766196CF27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60C8FBC-E031-447E-92CB-7766196CF27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60C8FBC-E031-447E-92CB-7766196CF27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60C8FBC-E031-447E-92CB-7766196CF27E}.Release|Any CPU.ActiveCfg = Release|x64
+		{B60C8FBC-E031-447E-92CB-7766196CF27E}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA0EDF6-BC0E-4655-BA17-9CBC23618D2B}
+	EndGlobalSection
+EndGlobal
